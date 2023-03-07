@@ -1,1 +1,1 @@
-# geolin.org
+# geolin
